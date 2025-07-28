@@ -6,7 +6,7 @@ coursera
 <ul>Certified Security Analyst</ul>
 <H1>Security and Management Tools</H1>
 <ul>Splunk</ul>
-ul>CrowdStrike</ul>
+<ul>CrowdStrike</ul>
 <ul>Datadog</ul>
 <ul>Dynatrace</ul>
 <ul>Palo Alto</ul>
